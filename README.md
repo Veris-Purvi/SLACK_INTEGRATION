@@ -19,7 +19,7 @@ This is a Slack bot developed in Python for scheduling meetings using the Slack 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/slack-meeting-scheduler.git
+   git clone https://github.com/Veris-Purvi/SLACK_INTEGRATION.git
    ```
 
 2. Install the required Python packages:
